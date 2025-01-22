@@ -1,4 +1,3 @@
-import Logoshow from '../components/Logoshow'
 import handspread from '../assets/handspread.png'
 import handp from '../assets/handpoint.png'
 import couple from '../assets/couple.png'
@@ -19,7 +18,6 @@ const Showaca = () => {
 
         <img src={handp} alt="Hand pointing" width={312} height={203} />
       </div>
-      <Logoshow />
     </>
   )
 }
